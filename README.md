@@ -11,13 +11,15 @@ https://eu-west-2.console.aws.amazon.com/s3/get-started?region=eu-west-2
 
 
 
-Step 2: Creating a bucket	In this section we see two separate accounts namespaces.
+Step 2: 
+### Creating a bucket	In this section we see two separate accounts namespaces.
  
 
 Global namespace allows your bucket name registered globally where no one can create the same name, meaning its unique across all aws account and region.
 Bucket name also turns to be part of the endpoint URL.
 Account regional namespace: buckets names are only registered or unique within specific region.
-Step3 Choose a bucket name,
+Step3 :
+## Choose a bucket name,
  
   scroll down  click create
 
